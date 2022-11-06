@@ -24,7 +24,8 @@ try:
     Im_Path = sys.argv[1]
 
 except :
-    Im_Path = "image/myImage.jpg"
+    # here my image name is 'fall'
+    Im_Path = "image/fall.jpg"  
 
 
 
